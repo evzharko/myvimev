@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/e.zharko'
+let g:netrw_dirhist_2='/home/e.zharko/gitlab/asterisk_saturn/AsteriskInDocker'
